@@ -15,7 +15,7 @@ ITK COINFIG
 - [✨ vSphere 7.0](#-vSphere)
 - [📦 Microsoft Sql Cluster+Multipath MPIO iSCSI ](#-MSSQL)
 - [🚀 Endian Firewall](#-Endian)
-- [📷 vSphere 7.0 Basic to Advance ](#-vSphere 7 Basic to Advance).
+- [📷 vSphere 7.0 Basic to Advance] (#-vSphere 7 Basic to Advance)
 - [🛠 Tech Stack](#-tech-stack)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)

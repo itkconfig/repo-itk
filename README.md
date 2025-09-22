@@ -16,7 +16,7 @@ ITK COINFIG
 - [📦 Microsoft Sql Cluster+Multipath MPIO iSCSI ](#-MSSQL)
 - [🚀 Endian Firewall](#-Endian)
 - [📷 vSphere 7.0 Basic to Advance](#vsphere-7-basic-to-advance)
-- [🛠 Linux Administrator 2022- 3 in 1](#Linux Administrator 2022)
+- [🛠 Linux Administrator 2022- 3 in 1](#Linux--Administrator--2022)  
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 

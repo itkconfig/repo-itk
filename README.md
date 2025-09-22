@@ -17,7 +17,7 @@ ITK COINFIG
 - [🚀 Endian Firewall](#-Endian)
 - [📷 vSphere 7.0 Basic to Advance](#vsphere-7-basic-to-advance)
 - [🛠 Linux Administrator 2022- 3 in 1](#Linux--Administrator--2022)  
-- [🤝 Contributing](#-contributing)
+- [🤝 Zabbix v.6](#-Zabbix--v.6)
 - [📄 License](#-license)
 
 ---

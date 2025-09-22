@@ -20,7 +20,7 @@ ITK COINFIG
 - [🤝 Zabbix v.6](#-Zabbix--v.6)
 - [📄 Grafana: Learn Grafana Dashboard](#-Learn--Grafana--Dashboard)
 
----
+---🥹
 
 ## ✨ Features
 - ✅ จัดการงาน (To-Do List) ได้ง่าย

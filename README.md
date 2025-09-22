@@ -12,8 +12,8 @@ ITK COINFIG
 ---
 
 ## 📑 Table of Contents
-- [✨ Features](#-features)
-- [📦 Installation](#-installation)
+- [✨ vSphere 7.0](#-vSphere)
+- [📦 MIcrosoft Sql Cluster+Multipath MPIO iSCSI ](#-MSSQL)
 - [🚀 Usage](#-usage)
 - [📷 Screenshots](#-screenshots)
 - [🛠 Tech Stack](#-tech-stack)
